@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307456601093",
+    "project_id": "xam-senegal",
+    "storage_bucket": "xam-senegal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307456601093:android:16a1178c106432081f006c",
+        "android_client_info": {
+          "package_name": "com.example.hotel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFpaJQFlwK6Qxrr6XqxZU6y3Y7EEOIc_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
